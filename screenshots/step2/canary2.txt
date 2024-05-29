@@ -1,0 +1,10 @@
+NAME                           READY   STATUS    RESTARTS   AGE
+blue-b7ccd66f8-5q6qx           1/1     Running   0          58m
+blue-b7ccd66f8-ccvk4           1/1     Running   0          58m
+blue-b7ccd66f8-pn8np           1/1     Running   0          58m
+canary-v1-6fdd868697-4hvmd     1/1     Running   0          58m
+canary-v1-6fdd868697-t4qg8     1/1     Running   0          23m
+canary-v2-74976dd559-6m8dx     1/1     Running   0          10m
+canary-v2-74976dd559-rrgmw     1/1     Running   0          33m
+debug                          1/1     Running   0          2m38s
+hello-world-5596867969-djk4g   1/1     Running   0          45m
